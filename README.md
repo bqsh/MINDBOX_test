@@ -57,8 +57,8 @@ var area = cicle.CalculateArea();
 - SQL запрос, который возвращает список всех продуктов с их категориями, включая продукты без категорий.
 - Пример запроса, который демонстрирует правильность работы.
 
-[Запрос создания бд](../SqlTask/createDb.sql)
-[Запрос задания](../SqlTask/task.sql)
+[Запрос создания бд](https://github.com/bqsh/MindBox_test/blob/SqlTask/createDb.sql)
+[Запрос задания](https://github.com/bqsh/MindBox_test/blob/SqlTask/task.sql)
 
 | product_name | category_name |
 |--------------|:-------------:|
