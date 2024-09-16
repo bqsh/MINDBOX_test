@@ -12,15 +12,15 @@ public class Triangle : BaseShape, IAreaCalculator
     /// <summary>
     /// The length of the first side of the triangle.
     /// </summary>
-    private double X { get; }
+    public double X { get; }
     /// <summary>
     /// The length of the second side of the triangle.
     /// </summary>
-    private double Y { get; }
+    public double Y { get; }
     /// <summary>
     /// The length of the third side of the triangle.
     /// </summary>
-    private double Z { get; }
+    public double Z { get; }
     
     #endregion
 

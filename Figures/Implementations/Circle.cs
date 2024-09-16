@@ -13,7 +13,7 @@ public class Circle : BaseShape, IAreaCalculator
     /// </summary>
     /// <param name="radius">The radius of the circle. Must be greater than 0.</param>
     /// <exception cref="ArgumentOutOfRangeException">Thrown when the radius is less than or equal to 0.</exception>
-    private double Radius { get; }
+    public double Radius { get; }
 
     public Circle(double radius)
     {
