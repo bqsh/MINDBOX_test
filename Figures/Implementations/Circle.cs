@@ -5,7 +5,7 @@ namespace Figures.Implementations;
 /// <summary>
 /// This class representing a circle. Inherits from BaseShape class.
 /// </summary>
-public class Circle : BaseShape, IAreaCalculator
+public class Circle : BaseShape
 {
     /// <summary>
     /// Constructor for the Circle class. Initializes the object with the given radius.

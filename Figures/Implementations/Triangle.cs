@@ -5,7 +5,7 @@ namespace Figures.Implementations;
 /// <summary>
 /// This class representing a circle. Inherits from BaseShape class.
 /// </summary>
-public class Triangle : BaseShape, IAreaCalculator
+public class Triangle : BaseShape
 {
     #region variables
 
