@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures.Tests", "Figures.Tests\Figures.Tests.csproj", "{7B87901B-451B-4968-A8F1-E3A953677610}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlTask", "SqlTask\SqlTask.csproj", "{10AF5D16-EE2A-445D-BCE6-F3E101108E41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7B87901B-451B-4968-A8F1-E3A953677610}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B87901B-451B-4968-A8F1-E3A953677610}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B87901B-451B-4968-A8F1-E3A953677610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10AF5D16-EE2A-445D-BCE6-F3E101108E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10AF5D16-EE2A-445D-BCE6-F3E101108E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10AF5D16-EE2A-445D-BCE6-F3E101108E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10AF5D16-EE2A-445D-BCE6-F3E101108E41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
